@@ -1,14 +1,14 @@
-# 📘 User Registration API
+# 📘 Customer Registration API
 
-This is a RESTful API built with **C# and .NET Core**, using **Entity Framework** for data persistence. The database was originally hosted on **Azure SQL Database** (currently inactive). The application runs locally and manages user registration data.
+This is a RESTful API built with **C# and .NET Core**, using **Entity Framework** for data persistence. The database was originally hosted on **Azure SQL Database** (currently inactive). The application runs locally and manages client registration data.
 
 ## 🚀 Features
 
-- ✅ Create user (`POST /users`)
-- 🔄 Update user (`PUT /users/{id}`)
-- ❌ Delete user (`DELETE /users/{id}`)
-- 📄 List all users (`GET /users`)
-- 🔍 Get user by ID (`GET /users/{id}`)
+- ✅ Create client (`POST /clients`)
+- 🔄 Update client (`PUT /clients/{id}`)
+- ❌ Delete client (`DELETE /clients/{id}`)
+- 📄 List all clients (`GET /clients`)
+- 🔍 Get client by ID (`GET /clients/{id}`)
 
 ## 🛠️ Technologies Used
 
