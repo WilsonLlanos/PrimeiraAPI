@@ -4,11 +4,11 @@ This is a RESTful API built with **C# and .NET Core**, using **Entity Framework*
 
 ## 🚀 Features
 
-- ✅ Create client 
-- 🔄 Update client 
-- ❌ Delete client 
-- 📄 List all clients 
-- 🔍 Get client by ID 
+- ✅ Create customer 
+- 🔄 Update customer 
+- ❌ Delete customer 
+- 📄 List all customers 
+- 🔍 Get customer by ID 
 
 ## 🛠️ Technologies Used
 
